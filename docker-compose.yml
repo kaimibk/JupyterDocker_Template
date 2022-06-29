@@ -13,5 +13,3 @@ services:
         ports:
             # Jupyter port
             - "8888:8888"
-            # Tensorboard port
-            - "6006:6006"
